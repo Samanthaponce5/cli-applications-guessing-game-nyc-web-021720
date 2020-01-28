@@ -7,7 +7,7 @@ p "Goodbye!"
  
 elsif user_input != random
 p "Sorry! The computer guessed #{random}"
-elsif
+else
  user_input == random
   p "You guessed the correct number!"
   
