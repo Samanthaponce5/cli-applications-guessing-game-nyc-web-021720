@@ -8,6 +8,6 @@ elsif user_input != random
 p "Sorry! The computer guessed #{random}"
 elsif
 user_input == "exit"
-p 
+p "Goodbye!"
   
 end
